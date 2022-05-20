@@ -1,4 +1,4 @@
-//jananishree
+//Rajkumar
 import java.util.Scanner;
 public class Subtract
 {
