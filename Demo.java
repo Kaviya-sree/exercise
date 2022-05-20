@@ -11,4 +11,4 @@ public class Demo {
         int product = num1*num2;
         System.out.println("Output: "+product);
     }
-}
+}//abc
