@@ -12,5 +12,5 @@ public class Divide
 	  p = s.nextInt();
         l=n/p;
         System.out.println("Divide Two Number is: "+l);
-    }
+    }//pn
 }
